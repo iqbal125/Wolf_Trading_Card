@@ -1,0 +1,39 @@
+
+
+div img {
+  height: 320px;
+  width: 320px;
+  border-style: solid;
+  border-width: 0px;
+  padding: 10px;
+
+}
+
+#txt {
+  border-style: solid;
+  width: 320px;
+  border-width: 1px;
+  padding: 10px;
+
+}
+
+body {
+  border-style: solid;
+  border-width: thin;
+  box-shadow: 10px 10px 5px grey;
+  width: 340px;
+  padding: 10px;
+
+}
+
+h3 {
+  padding: 10px
+}
+
+span{
+  font-weight: bold;
+}
+
+.list-items {
+  list-style-type:none;
+}
